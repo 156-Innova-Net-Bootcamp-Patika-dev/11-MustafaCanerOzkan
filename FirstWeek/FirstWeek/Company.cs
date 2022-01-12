@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace FirstWeek
 {
+    //Company isminde nesnemiz ve özelliklerini oluşturduk.
     public class Company
     {
         public int Id { get; set; }
