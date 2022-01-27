@@ -1,0 +1,12 @@
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\bin\Debug\net5.0\ThirdWeek.Model.deps.json
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\bin\Debug\net5.0\ThirdWeek.Model.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\bin\Debug\net5.0\ref\ThirdWeek.Model.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\bin\Debug\net5.0\ThirdWeek.Model.pdb
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\obj\Debug\net5.0\ThirdWeek.Model.csproj.AssemblyReference.cache
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\obj\Debug\net5.0\ThirdWeek.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\obj\Debug\net5.0\ThirdWeek.Model.AssemblyInfoInputs.cache
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\obj\Debug\net5.0\ThirdWeek.Model.AssemblyInfo.cs
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\obj\Debug\net5.0\ThirdWeek.Model.csproj.CoreCompileInputs.cache
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\obj\Debug\net5.0\ThirdWeek.Model.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\obj\Debug\net5.0\ref\ThirdWeek.Model.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\Entities\obj\Debug\net5.0\ThirdWeek.Model.pdb

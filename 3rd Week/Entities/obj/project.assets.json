@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\WeekThird\\Entities\\Entities.csproj",
-      "projectName": "Entities",
-      "projectPath": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\WeekThird\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\ThirdWeek.Model.csproj",
+      "projectName": "ThirdWeek.Model",
+      "projectPath": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\ThirdWeek.Model.csproj",
       "packagesPath": "C:\\Users\\caner\\.nuget\\packages\\",
-      "outputPath": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\WeekThird\\Entities\\obj\\",
+      "outputPath": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caner\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\Entities.csproj": {}
+    "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\Model.csproj": {}
   },
   "projects": {
-    "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\Entities.csproj": {
+    "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\Entities.csproj",
-        "projectName": "Entities",
-        "projectPath": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\Model.csproj",
         "packagesPath": "C:\\Users\\caner\\.nuget\\packages\\",
         "outputPath": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\Entities\\obj\\",
         "projectStyle": "PackageReference",
