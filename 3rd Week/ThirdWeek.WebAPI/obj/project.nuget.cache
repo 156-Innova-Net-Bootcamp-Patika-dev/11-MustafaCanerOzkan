@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7JHBYpOQH9Q+zQcK7NTjxXMYX1l5GE43gMZDJnivr5dn1wDOdPLCzTDJ8CmoXX6AnPNj6yuLrTySWxi2tQJ2nA==",
+  "success": true,
+  "projectFilePath": "C:\\App Projects\\GitHub\\11-MustafaCanerOzkan\\3rd Week\\ThirdWeek.WebAPI\\ThirdWeek.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caner\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\caner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

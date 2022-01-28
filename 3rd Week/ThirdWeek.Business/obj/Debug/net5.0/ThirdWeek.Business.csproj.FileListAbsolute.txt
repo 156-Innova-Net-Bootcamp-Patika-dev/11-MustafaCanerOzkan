@@ -1,0 +1,17 @@
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\bin\Debug\net5.0\ThirdWeek.Business.deps.json
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\bin\Debug\net5.0\ThirdWeek.Business.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\bin\Debug\net5.0\ref\ThirdWeek.Business.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\bin\Debug\net5.0\ThirdWeek.Business.pdb
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\bin\Debug\net5.0\ThirdWeek.DataAccess.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\bin\Debug\net5.0\ThirdWeek.Model.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\bin\Debug\net5.0\ThirdWeek.Model.pdb
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\bin\Debug\net5.0\ThirdWeek.DataAccess.pdb
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ThirdWeek.Business.csproj.AssemblyReference.cache
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ThirdWeek.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ThirdWeek.Business.AssemblyInfoInputs.cache
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ThirdWeek.Business.AssemblyInfo.cs
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ThirdWeek.Business.csproj.CoreCompileInputs.cache
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ThirdWeek.Business.csproj.CopyComplete
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ThirdWeek.Business.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ref\ThirdWeek.Business.dll
+C:\App Projects\GitHub\11-MustafaCanerOzkan\3rd Week\ThirdWeek.Business\obj\Debug\net5.0\ThirdWeek.Business.pdb

@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace ThirdWeek.DataAccess.Interfaces
 {
+    // Her entity için ayrı ayrı interface'ler tanımlamak yerine  burada tanımladığımız genel bir
+    // interface üzerinden, diğer interface'lerin implementasyonunu sağlıyoruz.
     public interface IGenericRepository<T>
     {
         List<T> GetAll();

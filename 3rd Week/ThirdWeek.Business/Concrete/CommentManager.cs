@@ -9,6 +9,7 @@ using ThirdWeekModel.Entities;
 
 namespace ThirdWeek.Business.Concrete
 {
+    // Dependency injection kullanarak oluşturduğumuz business katmanı
     public class CommentManager : ICommentService
     {
         private ICommentRepository _commentRepository;

@@ -12,9 +12,11 @@ namespace ThirdWeek.DataAccess
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            // Veritabanı ile bağlantı kuracağımız kısım.
             optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=ThirdWeekDb;uid=sa;pwd=1234");
         }
 
+        // Veritabanında oluşacak olan tablolarımızı tanımlıyoruz.
         public DbSet<Comment> Comments { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Seller> Sellers { get; set; }

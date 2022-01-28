@@ -7,6 +7,7 @@ using ThirdWeekModel.Entities;
 
 namespace ThirdWeek.Business.Interfaces
 {
+    // Metot imzalarını tanımlıyoruz.
     public interface ISellerService
     {
         List<Seller> GetAll();
